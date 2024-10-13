@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-lifestyle: "[[Lifestyle - Comfortable|Comfortable (2G)]]"
+lifestyle: "[[Comfortable - 2GP|Comfortable (2G)]]"
 region: "[[Tethyr]]"
 ---
 
@@ -18,6 +18,8 @@ The city rightly sees itself as the “quieter but better” trade rival to [[Ba
 
 The high water table of Zazesspur means that there is nowhere to build but up. Cellars are almost completely unheard of and more than one noble family has lost their estate simply by digging down.
 
+Population has shrunk to 100,000 down from its previous stable max of 350,000. This means that many of the buildings that have "been scupped", a local phrase for some construction project bursting the water table simply stand abandoned. 
+
 An important role is that of the Goshawk. The Goshawk runs a team of druids that encourage hawks and owls to roost in various areas of the city in order to cut down on pests.
 
 The "Rods" are the enforcement of the city. They direct traffic with colored wands that earn their namesake.
@@ -28,7 +30,7 @@ Zazess like to gamble, like roast boar as part of their cuisine, prefer their fi
 
 | Senses |                                                                                                             |
 | ------ | ----------------------------------------------------------------------------------------------------------- |
-| Eyes   |                                                                                                             |
+| Eyes   | Several buildings of moderate esteem stand empty                                                            |
 | Ears   | The sound of burbling water seems to pervade everywhere. Various dialects catch your ear                    |
 | Nose   | The city smells constantly of petrichor                                                                     |
 | Taste  |                                                                                                             |
@@ -46,11 +48,11 @@ Zazess like to gamble, like roast boar as part of their cuisine, prefer their fi
 3. If the party rolls a **DC17** investigation in any tavern, they will find a slip of paper intended for a member of the pirate bands detailing a plan of action for a ship heist
 4. One of the members of the council are running the local thieves guild
 # Points of Interest
-- Imar Restigo's Journeying. Located in "The Ships" is a caravan coster that has risen rapidliny in a decade, from nothing to being all over Tethyr and Amn. Known for expensive, fast deliveries that are well guarded and insured.
+- Imar Restigo's Journeying. Located in "The Ships" is a caravan coster that has risen rapidity in a decade, from nothing to being all over Tethyr and Amn. Known for expensive, fast deliveries that are well guarded and insured.
 - Anamavur’s (known for grand and solid, but also comfortable, chairs, with a sideline in ornate front doors featuring carved bosses) furniture “works” (sprawling, extensive factory and warehouses) in “the Wain” (the Wainwrights’ District);
 - Belbrent Leir Stoneworks in the Fortress (their daily coin is made cutting and dressing stone blocks for building, but they’re famous among the citizenry as the source of expensive but superb statuettes and statues, and marble counters and inlay work);
 # Hazards and Challenges
-- 
+- If the party investigates any of the abandoned buildings, they'll be able to determine that many of these will lead to the Sulduskoon river. Monsters sometimes come up from these holes.
 # Lore and History
 - Zazesspur used to be the capital city of [[Tethyr]] and the Zazess are upset about the fact that the capital of Tethyr is now
 - Zazesspur used to be a hub of black market trade. [[Queen Zaranda Star]] put an end to most of that, but was unable to eliminate the thieving and assassins trade. Instead she has made them into official guilds.

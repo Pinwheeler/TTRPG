@@ -13,7 +13,15 @@
     "location": 1,
     "dungeon": 2,
     "character": 3,
-    "player_character": 4
+    "player_character": 4,
+    "Neverwinter": 5,
+    "Highcorner": 6,
+    "Glass": 7,
+    "Cliffs": 8,
+    "The": 9,
+    "Rath": 10,
+    "Memonnnar": 11,
+    "Trade": 12
   },
   "_version": 3
 }

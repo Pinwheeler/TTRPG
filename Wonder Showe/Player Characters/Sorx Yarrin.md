@@ -20,3 +20,4 @@ Like the underminer, but a rat
 - Raised by Dryads in the town of [[Galvania]]
 - Galvania was destroyed in the Tetheryian Interregnum
 - [[Queen Zaranda Star]] avenged his enclave and is a friend to druids
+- Sorx ventures off in search of the Druid circle to the Northwest, hopeful to learn the secrets of the petrified wood and refortify his home

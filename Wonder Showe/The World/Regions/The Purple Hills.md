@@ -1,7 +1,7 @@
 ---
 tags:
   - location
-lifestyle: "[[Lifestyle - Comfortable|Comfortable (2G)]]"
+lifestyle: "[[Comfortable - 2GP|Comfortable (2G)]]"
 region: "[[Tethyr]]"
 ---
 

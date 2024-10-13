@@ -1,0 +1,1 @@
+Characters get one free level of fatigue suffered
