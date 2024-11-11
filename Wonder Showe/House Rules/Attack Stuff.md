@@ -1,0 +1,1 @@
+Half damage favors defense
